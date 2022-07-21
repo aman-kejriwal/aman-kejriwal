@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aman-kejriwal
 - 👀 I’m interested in ANDROID APP DEVELOPMENT AND JAVA
-- 🌱 I’m currently learning SOFTWARE DEVELOPMENT 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning SOFTWARE DEVELOPMENT & DSA. 
+- 💞️ I’m looking to collaborate on ANDROID DEVELOPMENT
 - 📫 How to reach me ...
 
 <!---
